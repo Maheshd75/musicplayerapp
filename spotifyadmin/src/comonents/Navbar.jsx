@@ -1,0 +1,11 @@
+
+
+const Navbar = () => {
+  return (
+    <div className="navbar w-full borer-b-2 border-gray-800 px-5 sm:px-12 py-4 text-lg">
+      <p>Admin panel</p>
+    </div>
+  )
+}
+
+export default Navbar
